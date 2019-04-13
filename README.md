@@ -85,17 +85,17 @@ Using Preferece Fragment to Realize Settings Page
     }
 ## 结果截图如下：
 ### 主界面：
-![](https://github.com/dj-jun/FragmentPreference/blob/master/images/1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/20)
-![](https://github.com/dj-jun/FragmentPreference/blob/master/images/2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/20)
+![](https://github.com/dj-jun/FragmentPreference/blob/master/images/1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
+![](https://github.com/dj-jun/FragmentPreference/blob/master/images/2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
 ### CheckBoxPreference界面截图：
-![](https://github.com/dj-jun/FragmentPreference/blob/master/images/3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/20)
+![](https://github.com/dj-jun/FragmentPreference/blob/master/images/3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
 ### EditTextPreference界面截图：
-![](https://github.com/dj-jun/FragmentPreference/blob/master/images/4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/20)
+![](https://github.com/dj-jun/FragmentPreference/blob/master/images/4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
 ### ListPreference界面截图：
-![](https://github.com/dj-jun/FragmentPreference/blob/master/images/5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/20)
+![](https://github.com/dj-jun/FragmentPreference/blob/master/images/5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
 ### PreferenceScreen跳转到另一个PreferenceScreen界面截图：
-![](https://github.com/dj-jun/FragmentPreference/blob/master/images/6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/20)
+![](https://github.com/dj-jun/FragmentPreference/blob/master/images/6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
 ### PreferenceScreen启动一个网页界面截图：
-![](https://github.com/dj-jun/FragmentPreference/blob/master/images/7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/20)
+![](https://github.com/dj-jun/FragmentPreference/blob/master/images/7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
 ### CheckBox父选项;子选项，当父选项勾选时呈现界面截图：
-![](https://github.com/dj-jun/FragmentPreference/blob/master/images/8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/20)
+![](https://github.com/dj-jun/FragmentPreference/blob/master/images/8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)

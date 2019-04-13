@@ -85,7 +85,7 @@ Using Preferece Fragment to Realize Settings Page
     }
 ## 结果截图如下：
 ### 主界面：
-![](https://github.com/dj-jun/FragmentPreference/blob/master/images/1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
+![](https://github.com/dj-jun/FragmentPreference/blob/master/images/1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
 ![](https://github.com/dj-jun/FragmentPreference/blob/master/images/2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
 ### CheckBoxPreference界面截图：
 ![](https://github.com/dj-jun/FragmentPreference/blob/master/images/3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/5)
